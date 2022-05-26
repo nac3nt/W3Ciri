@@ -11,4 +11,4 @@ Models edited/composited/animated in Blender.
 
 Music: https://www.youtube.com/watch?v=ujPl8sHsxtI
 
-Models/music are/is locally included, give some time to load.
+Models/music are/is locally included, give some time to load/process.
